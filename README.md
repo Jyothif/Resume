@@ -1,7 +1,7 @@
 # Jyothi Panuganti
 ###### Entry Level Data Scientist
 
-**Fell Free to  Contact**
+**Feel Free to  Contact**
 * Location:LB nagar,Hyderabad,India,500074
 * Phone:8121944402  
 * MailId: jyothiffu@gmail.com 
@@ -55,10 +55,10 @@ Tableau
 ## Achievements
 
 * I have Succesfully completed internship at Spark Foundation
-![]()
+![](https://github.com/Jyothif/Resume/blob/main/images/Spark%20Certificate.png)
 
 * I have Succesfully Completed NLP trainings in Linekdin Trainings
-1[]()
+1[](https://github.com/Jyothif/Resume/blob/main/images/Certificate%20Nlp%20With%20Python%20For%20Machine%20Learning%20Essential%20Training.pdf)
 
 * I have succesfully completed Personality deelopment training in Linkedin
 
