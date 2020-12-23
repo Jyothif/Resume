@@ -1,7 +1,8 @@
 # Jyothi Panuganti
 Entry Level Data Scientist
-![](https://github.com/Jyothif/Resume/blob/main/images/call.png)
-
+Address:LB nagar,Hyderabad,500074
+Phone:8121944402  MailId: jyothiffu@gmail.com 
+linkedin:https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/
 
 ### Summary
 ##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
