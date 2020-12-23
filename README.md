@@ -2,16 +2,16 @@
 Entry Level Data Scientist
 
 **Feel Free to  Contact**
-* Location:LB nagar,Hyderabad,India,500074
-* Phone:8121944402  
-* MailId: jyothiffu@gmail.com 
-* linkedin:https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
+* 🏠 LB nagar,Hyderabad,India,500074
+* 📞 8121944402  
+* 📧 jyothiffu@gmail.com 
+* linkedin: https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
 
 
-## Summary
+## Summary😊
 ##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
 
-## Skills
+## Skills 📘
 - `Machine Learning`    
 - `Python`  
 - `Statistics` 
@@ -20,7 +20,7 @@ Entry Level Data Scientist
 - `Computer Vision`   
 - `NLP`
 
-## Experience(self projects)
+## Experience 👔 
 
 **`Machine Learning`**
 
@@ -55,13 +55,13 @@ Entry Level Data Scientist
 
 [Project 1: Co2 emission per capita Dashboard](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
 
-## Achievements
+## Achievements 🚀
 
 * I have Succesfully completed internship at Spark Foundation
 ![](https://github.com/Jyothif/Resume/blob/main/images/Spark%20Certificate.png)
 
 * I have Succesfully Completed NLP trainings in Linekdin Trainings
-1[](https://github.com/Jyothif/Resume/blob/main/images/Certificate%20Nlp%20With%20Python%20For%20Machine%20Learning%20Essential%20Training.pdf)
+![](https://github.com/Jyothif/Resume/blob/main/images/Certificate%20Nlp%20With%20Python%20For%20Machine%20Learning%20Essential%20Training.pdf)
 
 * I have succesfully completed Personality deelopment training in Linkedin
 
