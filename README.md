@@ -5,12 +5,12 @@ Entry Level Data Scientist
 * Location:LB nagar,Hyderabad,India,500074
 * Phone:8121944402  
 * MailId: jyothiffu@gmail.com 
-* linkedin:https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ **
+* linkedin:https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
 
-### Summary
+## Summary
 ##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
 
-### Skills
+## Skills
 - Machine Learning    
 - Python  
 - Statistics  
@@ -19,7 +19,7 @@ Entry Level Data Scientist
 - Computer Vision   
 - NLP
 
-### Experience(self projects)
+## Experience(self projects)
 
 [Project 1: Data Cleaning and Exploration](https://github.com/Jyothif/Superhero_Data_Exploration,https://github.com/Jyothif/Heart-Disease-)
 
@@ -31,18 +31,40 @@ Entry Level Data Scientist
 
 [Project 5:](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR)
 
+Natural Language Processing:
+
+[Project 1](https://github.com/Jyothif/NLP-Twitter-sentiment-analysis)
+
+* Sentiment analysis where task will be to classify a set of tweets into two categories: 1. racist, 2.non-racist,It is a set of methods and techniques used for extracting subjective infromation from text or speech,such as attitudes.In simple terms,it involves classifying a text as positive, negative or neutral.
+
+[Project 2:](https://github.com/Jyothif/Amazon_products_sentiment_analysis)
+This Project consists of 34000 consumer reviews of Amazon products I have been implemented the multinomialNB with 93.2%, Bernouli with 92.0% and Logistic regression with 93.7% for this dataset.
+
+[Project 3:](https://github.com/Jyothif/Kindle-Sentiment-Analysis): This project is all about data exploration with text data
+
 Computer Vision
 
 [Project 1: OPencv](https://github.com/Jyothif/Color_detection_Using_Opencv)
 
 [Project 2:](https://github.com/Jyothif/cartoonify_image)
 
-Natural Language Processing:
+Tableau
 
-[Project 1:](https://github.com/Jyothif/Amazon_products_sentiment_analysis)
-This Project consists of 34000 consumer reviews of Amazon products I have been implemented the multinomialNB with 93.2%, Bernouli with 92.0% and Logistic regression with 93.7% for this dataset.
+[Project 1:](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
 
-[Project2:](https://github.com/Jyothif/Kindle-Sentiment-Analysis): This project is all about data exploration with text data
+## Achievements
+
+* I have Succesfully completed internship at Spark Foundation
+![]()
+
+* I have Succesfully Completed NLP trainings in Linekdin Trainings
+1[]()
+
+* I have succesfully completed Personality deelopment training in Linkedin
+
+
+
+
 
 
 
