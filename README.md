@@ -1,6 +1,6 @@
 # Jyothi Panuganti
 Entry Level Data Scientist
-[]!(https://github.com/Jyothif/Resume/blob/main/images/call.png/call.png)
+![](/images/call.png/call.png)
 
 
 ### Summary
