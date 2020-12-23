@@ -1,5 +1,6 @@
 # Jyothi Panuganti
 Entry Level Data Scientist
+
 Address:LB nagar,Hyderabad,500074
 Phone:8121944402  MailId: jyothiffu@gmail.com 
 linkedin:https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/
