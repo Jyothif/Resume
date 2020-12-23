@@ -57,10 +57,10 @@ Entry Level Data Scientist
 ## Achievements 🚀
 
 * I have Succesfully completed internship at Spark Foundation
-![](https://github.com/Jyothif/Resume/blob/main/images/Spark%20Certificate.png)
+
 
 * I have Succesfully Completed NLP trainings in Linekdin Trainings
-![](https://github.com/Jyothif/Resume/blob/main/images/Certificate%20Nlp%20With%20Python%20For%20Machine%20Learning%20Essential%20Training.pdf)
+
 
 * I have succesfully completed Personality deelopment training in Linkedin
 
