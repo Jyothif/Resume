@@ -23,7 +23,9 @@ Entry Level Data Scientist
 
 **`Machine Learning`**
 
-[Project 1: Data Cleaning and Exploration](https://github.com/Jyothif/Superhero_Data_Exploration)[](https://github.com/Jyothif/Heart-Disease-)
+[Project 1a: Data Cleaning and Exploration](https://github.com/Jyothif/Superhero_Data_Exploration)
+[Project 1b: Heart Disease](https://github.com/Jyothif/Heart-Disease-)
+[Project 1c: webscraping](https://github.com/Jyothif/Air-Quality-Index)
 
 [Project 2: Student Score Baord](https://github.com/Jyothif/Predicting-_Student-Score_Linear-Regression)
 
