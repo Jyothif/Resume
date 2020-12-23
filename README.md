@@ -50,7 +50,7 @@ This Project consists of 34000 consumer reviews of Amazon products I have been i
 
 [Project 2:](https://github.com/Jyothif/cartoonify_image)
 
-**`Tableau'**
+**`Tableau`**
 
 [Project 1:](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
 
