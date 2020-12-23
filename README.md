@@ -7,6 +7,7 @@ Entry Level Data Scientist
 * MailId: jyothiffu@gmail.com 
 * linkedin:https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
 
+
 ## Summary
 ##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
 
@@ -31,28 +32,31 @@ Entry Level Data Scientist
 
 [Project 4: coding to deployment](https://github.com/Jyothif/Carsales_Prediction)
 
-[Project 5:](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR)
+[Project 5: Data science salary](https://github.com/Jyothif/Data_science_salary_Project)
+
 
 **`Natural Language Processing`**
 
-[Project 1](https://github.com/Jyothif/NLP-Twitter-sentiment-analysis)
+[Project 1: Twitter sentiment analysis](https://github.com/Jyothif/NLP-Twitter-sentiment-analysis)
 
 * Sentiment analysis where task will be to classify a set of tweets into two categories: 1. racist, 2.non-racist,It is a set of methods and techniques used for extracting subjective infromation from text or speech,such as attitudes.In simple terms,it involves classifying a text as positive, negative or neutral.
 
-[Project 2:](https://github.com/Jyothif/Amazon_products_sentiment_analysis)
+[Project 2: Amazon Product sentiment analysis](https://github.com/Jyothif/Amazon_products_sentiment_analysis)
 This Project consists of 34000 consumer reviews of Amazon products I have been implemented the multinomialNB with 93.2%, Bernouli with 92.0% and Logistic regression with 93.7% for this dataset.
 
-[Project 3:](https://github.com/Jyothif/Kindle-Sentiment-Analysis): This project is all about data exploration with text data
+[Project 3: Kindle sentiment analysis](https://github.com/Jyothif/Kindle-Sentiment-Analysis): This project is all about data exploration with text data
+
+[Project 4: Ecommerce customer device usage](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR)
 
 **`Computer Vision`**
 
-[Project 1: OPencv](https://github.com/Jyothif/Color_detection_Using_Opencv)
+[Project 1: Color detection ](https://github.com/Jyothif/Color_detection_Using_Opencv)
 
-[Project 2:](https://github.com/Jyothif/cartoonify_image)
+[Project 2: Cartoonify the image](https://github.com/Jyothif/cartoonify_image)
 
 **`Tableau`**
 
-[Project 1:](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
+[Project 1: Co2 emission per capita Dashboard](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
 
 ## Achievements
 
