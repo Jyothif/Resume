@@ -33,7 +33,7 @@
 
 [Project 5:](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR)
 
-Natural Language Processing:
+**`Natural Language Processing`**
 
 [Project 1](https://github.com/Jyothif/NLP-Twitter-sentiment-analysis)
 
@@ -44,13 +44,13 @@ This Project consists of 34000 consumer reviews of Amazon products I have been i
 
 [Project 3:](https://github.com/Jyothif/Kindle-Sentiment-Analysis): This project is all about data exploration with text data
 
-Computer Vision
+**`Computer Vision`**
 
 [Project 1: OPencv](https://github.com/Jyothif/Color_detection_Using_Opencv)
 
 [Project 2:](https://github.com/Jyothif/cartoonify_image)
 
-Tableau
+**`Tableau'**
 
 [Project 1:](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
 
