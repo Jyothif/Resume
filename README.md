@@ -1,5 +1,6 @@
 # Jyothi Panuganti
 Entry Level Data Scientist
+
 **Feel Free to  Contact**
 🏠 LB nagar,Hyderabad,India,500074  📞 8121944402  📧 jyothiffu@gmail.com  
 ☁️ https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
@@ -68,8 +69,7 @@ Entry Level Data Scientist
 * I am Active and Exurbanite in every act of the company, made the company grow in their sales by actively participating in the admissions
 * I am the most and known member of the company to approach and easy-going person
 * I have worked in every aspect of the company to grow in its sales.
-## Education
-B.Tech computer science of from Noble college of Engineering and Technology for women with 70.3%
+
 
 
 
