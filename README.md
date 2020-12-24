@@ -5,6 +5,7 @@ Entry Level Data Scientist
 ☁️ https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
 ## Summary😊
 ##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
+
 ## Skills 📘
 - `Machine Learning`    
 - `Python`  
@@ -13,6 +14,7 @@ Entry Level Data Scientist
 - `Tableau`   
 - `Computer Vision`   
 - `NLP`
+
 ## Experience 👔 
 
 **`Machine Learning`**
@@ -58,6 +60,7 @@ Entry Level Data Scientist
 * Maintained and regular updating of IT asset register and provide the same to the central head and functional head,
 * Troubleshooting issues related to all hardware and software,
 * Interfaced between company and Customer, Making Calls, and follow-ups Record.
+
 ## Achievements 🚀
 * I Succesfully completed internship at Spark Foundation
 * I Succesfully Completed NLP trainings in Linekdin Trainings
