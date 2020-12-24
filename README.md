@@ -1,6 +1,5 @@
 # Jyothi Panuganti
 Entry Level Data Scientist
-
 **Feel Free to  Contact**
 🏠 LB nagar,Hyderabad,India,500074  📞 8121944402  📧 jyothiffu@gmail.com  
 ☁️ https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
@@ -59,14 +58,12 @@ Entry Level Data Scientist
 [Project: Data analysis on SOCCER DATABASE](https://github.com/Jyothif/Data-analysis-using-SQL)
 
 **Company Name: Dream India Schools - ICT Executive (April 2015- Feb 2019)**
-
 * Succeeded in maintaining all documents related to the IT department, Synchronized with IT Managers to resolve technical issues at end-users and traced with all expiry dates of all the hardware IT department (example: purchase orders, invoices, delivery challans, service reports)
 * Maintained and regular updating of IT asset register and provide the same to the central head and functional head,
 * Troubleshooting issues related to all hardware and software,
 * Interfaced between company and Customer, Making Calls, and follow-ups Record.
 
 ## Achievements 🚀
-
 * I Succesfully completed internship at Spark Foundation
 * I Succesfully Completed NLP trainings in Linekdin Trainings
 * I succesfully completed Personality deelopment training in Linkedin
