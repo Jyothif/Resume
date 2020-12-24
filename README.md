@@ -19,7 +19,6 @@ Entry Level Data Scientist
 ## Experience 👔 
 
 **`Machine Learning`**
-
 [Project 1a: Data Cleaning and Exploration](https://github.com/Jyothif/Superhero_Data_Exploration)
 [Project 1b: Heart Disease](https://github.com/Jyothif/Heart-Disease-)
 [Project 1c: webscraping](https://github.com/Jyothif/Air-Quality-Index)
@@ -32,9 +31,7 @@ Entry Level Data Scientist
 
 [Project 5: Data science salary](https://github.com/Jyothif/Data_science_salary_Project)
 
-
 **`Natural Language Processing`**
-
 [Project 1: Twitter sentiment analysis](https://github.com/Jyothif/NLP-Twitter-sentiment-analysis)
 
 [Project 2: Amazon Product sentiment analysis](https://github.com/Jyothif/Amazon_products_sentiment_analysis)
@@ -44,17 +41,14 @@ Entry Level Data Scientist
 [Project 4: Ecommerce customer device usage](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR)
 
 **`Computer Vision`**
-
 [Project 1: Color detection ](https://github.com/Jyothif/Color_detection_Using_Opencv)
 
 [Project 2: Cartoonify the image](https://github.com/Jyothif/cartoonify_image)
 
 **`Tableau`**
-
 [Project 1: Co2 emission per capita Dashboard](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
 
 **`SQL`**
-
 [Project: Data analysis on SOCCER DATABASE](https://github.com/Jyothif/Data-analysis-using-SQL)
 
 **Company Name: Dream India Schools - ICT Executive (April 2015- Feb 2019)**
