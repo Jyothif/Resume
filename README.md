@@ -3,10 +3,8 @@ Entry Level Data Scientist
 **Feel Free to  Contact**
 🏠 LB nagar,Hyderabad,India,500074  📞 8121944402  📧 jyothiffu@gmail.com  
 ☁️ https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
-
 ## Summary😊
 ##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
-
 ## Skills 📘
 - `Machine Learning`    
 - `Python`  
@@ -15,7 +13,6 @@ Entry Level Data Scientist
 - `Tableau`   
 - `Computer Vision`   
 - `NLP`
-
 ## Experience 👔 
 
 **`Machine Learning`**
@@ -43,6 +40,7 @@ Entry Level Data Scientist
 [Project 4: Ecommerce customer device usage](https://github.com/Jyothif/Ecommerce-customer-device-usage_LR)
 
 **`Computer Vision`**
+
 [Project 1: Color detection ](https://github.com/Jyothif/Color_detection_Using_Opencv)
 
 [Project 2: Cartoonify the image](https://github.com/Jyothif/cartoonify_image)
@@ -60,7 +58,6 @@ Entry Level Data Scientist
 * Maintained and regular updating of IT asset register and provide the same to the central head and functional head,
 * Troubleshooting issues related to all hardware and software,
 * Interfaced between company and Customer, Making Calls, and follow-ups Record.
-
 ## Achievements 🚀
 * I Succesfully completed internship at Spark Foundation
 * I Succesfully Completed NLP trainings in Linekdin Trainings
@@ -68,7 +65,6 @@ Entry Level Data Scientist
 * I am Active and Exurbanite in every act of the company, made the company grow in their sales by actively participating in the admissions
 * I am the most and known member of the company to approach and easy-going person
 * I have worked in every aspect of the company to grow in its sales.
-
 ## Education
 B.Tech computer science of from Noble college of Engineering and Technology for women with 70.3%
 
