@@ -5,12 +5,10 @@ Entry Level Data Scientist
 🏠 LB nagar,Hyderabad,India,500074  📞 8121944402  📧 jyothiffu@gmail.com  
 ☁️ https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
 
-
 ## Summary😊
 ##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
 
 ## Skills 📘
-
 - `Machine Learning`    
 - `Python`  
 - `Statistics` 
@@ -56,16 +54,28 @@ Entry Level Data Scientist
 
 [Project 1: Co2 emission per capita Dashboard](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
 
+**`SQL`**
+
+[Project: Data analysis on SOCCER DATABASE](https://github.com/Jyothif/Data-analysis-using-SQL)
+
+**Company Name: Dream India Schools - ICT Executive (April 2015- Feb 2019)**
+
+* Succeeded in maintaining all documents related to the IT department, Synchronized with IT Managers to resolve technical issues at end-users and traced with all expiry dates of all the hardware IT department (example: purchase orders, invoices, delivery challans, service reports)
+* Maintained and regular updating of IT asset register and provide the same to the central head and functional head,
+* Troubleshooting issues related to all hardware and software,
+* Interfaced between company and Customer, Making Calls, and follow-ups Record.
+
 ## Achievements 🚀
 
-* I have Succesfully completed internship at Spark Foundation
+* I Succesfully completed internship at Spark Foundation
+* I Succesfully Completed NLP trainings in Linekdin Trainings
+* I succesfully completed Personality deelopment training in Linkedin
+* I am Active and Exurbanite in every act of the company, made the company grow in their sales by actively participating in the admissions
+* I am the most and known member of the company to approach and easy-going person
+* I have worked in every aspect of the company to grow in its sales.
 
-
-* I have Succesfully Completed NLP trainings in Linekdin Trainings
-
-
-* I have succesfully completed Personality deelopment training in Linkedin
-
+## Education
+B.Tech computer science of from Noble college of Engineering and Technology for women with 70.3%
 
 
 
