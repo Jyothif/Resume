@@ -2,8 +2,11 @@
 Entry Level Data Scientist
 
 **Feel Free to  Contact**
-🏠 LB nagar,Hyderabad,India,500074  📞 8121944402  📧 jyothiffu@gmail.com  
+🏠 LB nagar,Hyderabad,India,500074  
+📞 8121944402  
+📧 jyothiffu@gmail.com  
 ☁️ https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
+
 ## Summary😊
 ##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
 
@@ -29,6 +32,7 @@ Entry Level Data Scientist
 [Project 3: k-means clusteirng(unsupervised)](https://github.com/Jyothif/k-means-clustering_iris-dataset)
 
 [Project 4: coding to deployment](https://github.com/Jyothif/Carsales_Prediction)
+[UI of this project](https://carslaespred.herokuapp.com/)
 
 [Project 5: Data science salary](https://github.com/Jyothif/Data_science_salary_Project)
 
@@ -65,7 +69,6 @@ Entry Level Data Scientist
 ## Achievements 🚀
 * I Succesfully completed internship at Spark Foundation
 * I Succesfully Completed NLP trainings in Linekdin Trainings
-* I succesfully completed Personality deelopment training in Linkedin
 * I am Active and Exurbanite in every act of the company, made the company grow in their sales by actively participating in the admissions
 * I am the most and known member of the company to approach and easy-going person
 * I have worked in every aspect of the company to grow in its sales.
