@@ -2,6 +2,7 @@
 Entry Level Data Scientist
 
 **Feel Free to  Contact**
+
 🏠 LB nagar,Hyderabad,India,500074  
 📞 8121944402  
 📧 jyothiffu@gmail.com  
