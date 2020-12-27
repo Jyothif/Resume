@@ -68,11 +68,8 @@ Entry Level Data Scientist
 * Interfaced between company and Customer, Making Calls, and follow-ups Record.
 
 ## Achievements 🚀
-* I Succesfully completed internship at Spark Foundation
-* I Succesfully Completed NLP trainings in Linekdin Trainings
-* I am Active and Exurbanite in every act of the company, made the company grow in their sales by actively participating in the admissions
-* I am the most and known member of the company to approach and easy-going person
-* I have worked in every aspect of the company to grow in its sales.
+* I Succesfully completed internship at Spark Foundationand NLP trainings in Linekdin Trainings
+* I am Active and Exurbanite in every act of the company, made the company grow in their sales by actively participating in the admissions,the most and known member of the company to approach and easy-going person, worked in every aspect of the company to grow in its sales.
 
 
 
