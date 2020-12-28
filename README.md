@@ -55,7 +55,7 @@ Entry Level Data Scientist
 
 **`Tableau`**
 
-[Project 1: Co2 emission per capita Dashboard](https://public.tableau.com/profile/jyothi6894#!/vizhome/CO2emissionpercapita_15725840185790/Dashboard1)
+[Project 1: SuperStore_orders Dashboard](https://public.tableau.com/views/superstore_16090566341370/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
 
 **`SQL`**
 
