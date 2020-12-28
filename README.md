@@ -65,7 +65,7 @@ Entry Level Data Scientist
 * Succeeded in maintaining all documents related to the IT department, Synchronized with IT Managers to resolve technical issues at end-users and traced with all expiry dates of all the hardware IT department (example: purchase orders, invoices, delivery challans, service reports)
 * Maintained and regular updating of IT asset register and provide the same to the central head and functional head,
 * Troubleshooting issues related to all hardware and software,
-* Interfaced between company and Customer, Making Calls, and follow-ups Record.
+* Interfaced between company and Customer.
 
 ## Achievements 🚀
 * I Succesfully completed internship at Spark Foundation and NLP trainings in Linekdin Trainings
