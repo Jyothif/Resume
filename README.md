@@ -4,7 +4,7 @@ Entry Level Data Scientist
 **Feel Free to  Contact**
 
 🏠 LB nagar,Hyderabad,India,500074  
-📞 8121944402  
+📞 9885899826  
 📧 jyothiffu@gmail.com  
 ☁️ https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
 
