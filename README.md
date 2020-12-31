@@ -28,7 +28,7 @@ Entry Level Data Scientist
 [Project 1b: Heart Disease](https://github.com/Jyothif/Heart-Disease-)
 [Project 1c: webscraping](https://github.com/Jyothif/Air-Quality-Index)
 
-[Project 2: Student Score Baord](https://github.com/Jyothif/Predicting-_Student-Score_Linear-Regression)
+[Project 2: Student Score Board](https://github.com/Jyothif/Predicting-_Student-Score_Linear-Regression)
 
 [Project 3: Iris- k-means clusteirng(unsupervised)](https://github.com/Jyothif/k-means-clustering_iris-dataset)
 
