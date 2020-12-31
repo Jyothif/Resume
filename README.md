@@ -9,7 +9,7 @@ Entry Level Data Scientist
 ☁️ https://www.linkedin.com/in/jyothi-panuganti-24b2561b8/ 
 
 ## Summary😊
-##### An entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
+##### An Entry-level data scientist who takes pride in building models that translate data points into business insights, eager to apply the knowledge to real-world business problems. Result-oriented individual with strong Bachelor’s in Computer Science, coming with solid statistics background, programming skills, and ability to clearly communicate and industry-specific concepts, model development experience and strong understanding of research design with and ability to analyze complex data.
 
 ## Skills 📘
 - `Machine Learning`    
@@ -24,15 +24,15 @@ Entry Level Data Scientist
 
 **`Machine Learning`**
 
-[Project 1a: Data Cleaning and Exploration](https://github.com/Jyothif/Superhero_Data_Exploration)
+[Project 1a: Super Hero - Data Cleaning and Exploration](https://github.com/Jyothif/Superhero_Data_Exploration)
 [Project 1b: Heart Disease](https://github.com/Jyothif/Heart-Disease-)
 [Project 1c: webscraping](https://github.com/Jyothif/Air-Quality-Index)
 
 [Project 2: Student Score Baord](https://github.com/Jyothif/Predicting-_Student-Score_Linear-Regression)
 
-[Project 3: k-means clusteirng(unsupervised)](https://github.com/Jyothif/k-means-clustering_iris-dataset)
+[Project 3: Iris- k-means clusteirng(unsupervised)](https://github.com/Jyothif/k-means-clustering_iris-dataset)
 
-[Project 4: coding to deployment](https://github.com/Jyothif/Carsales_Prediction)
+[Project 4: Car Sales Prediction- coding to deployment](https://github.com/Jyothif/Carsales_Prediction)
 [UI of this project](https://carslaespred.herokuapp.com/)
 
 [Project 5: Data science salary](https://github.com/Jyothif/Data_science_salary_Project)
