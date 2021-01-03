@@ -26,7 +26,7 @@ Entry Level Data Scientist
 
 [Project 1a: Super Hero - Data Cleaning and Exploration](https://github.com/Jyothif/Superhero_Data_Exploration)
 [Project 1b: Heart Disease](https://github.com/Jyothif/Heart-Disease-)
-[Project 1c: webscraping](https://github.com/Jyothif/Air-Quality-Index)[blog on webscrapping](https://jyothiffu.medium.com/web-scraping-on-aqi-8c78581ceeb6)
+[Project 1c: webscraping](https://github.com/Jyothif/Air-Quality-Index)   [blog on webscrapping](https://jyothiffu.medium.com/web-scraping-on-aqi-8c78581ceeb6)
 
 [Project 2: Student Score Board](https://github.com/Jyothif/Predicting-_Student-Score_Linear-Regression)
 
