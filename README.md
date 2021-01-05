@@ -35,8 +35,6 @@ Entry Level Data Scientist
 [Project 4: Car Sales Prediction- coding to deployment](https://github.com/Jyothif/Carsales_Prediction)
 [UI of this project](https://carslaespred.herokuapp.com/)
 
-[Project 5: Data science salary](https://github.com/Jyothif/Data_science_salary_Project)
-
 **`Natural Language Processing`**
 
 [Project 1: Twitter sentiment analysis](https://github.com/Jyothif/NLP-Twitter-sentiment-analysis)
